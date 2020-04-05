@@ -45,7 +45,7 @@ def PareInput(args):
 
 
 ScrawlWebManager.PushRelax("https://truyenz.info/manga/quyen-khi-luu-tinh/")
-ScrawlWebManager.SetSavePath("C:\\Users\\dient\\Desktop\\scrawlManga")
+ScrawlWebManager.SetSavePath("D:\\")
 ScrawlWebManager.FetchandSaveRelaxObject()
 print ("Done")
 #a = BeautifulSoup("<div class='adsf'></div>","lxml")
